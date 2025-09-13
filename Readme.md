@@ -1,4 +1,4 @@
-```
+
 BLOOM FILTER SIGN-UP DEMO — FULL-STACK (EXPRESS + REACT)
 =========================================================
 
@@ -309,4 +309,4 @@ A: When currentItems nears expectedCapacity, or on a schedule (daily/weekly), or
 LICENSE
 -------
 MIT. Free to use and modify.
-```
+
